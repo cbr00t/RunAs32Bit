@@ -64,7 +64,7 @@
     <Optimize>true</Optimize>
     <WarningLevel>1</WarningLevel>
     <DebugType>full</DebugType>
-    <PlatformTarget>ARM64</PlatformTarget>
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <LangVersion>7.3</LangVersion>
     <ErrorReport>prompt</ErrorReport>
     <Prefer32Bit>true</Prefer32Bit>
